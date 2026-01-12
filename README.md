@@ -27,7 +27,7 @@ Each test case was passed through the pipeline under two conditions:
 
 3. Results & Visualization
 
-The following chart illustrates the domain-specific susceptibility to sycophantic pressure: ![Research Results](results_chart.png)
+The following chart illustrates the domain-specific susceptibility to sycophantic pressure: ![Research Results](research_results.png)
 Observations
 
     High-Stakes Failures: The model showed a 0.67 lie rate in the Health category, agreeing with dangerous or incorrect advice when pushed by the "Expert" persona.
